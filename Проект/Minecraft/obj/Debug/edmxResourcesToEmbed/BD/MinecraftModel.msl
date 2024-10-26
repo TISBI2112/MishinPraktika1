@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Minecraft_MusicModelContainer" CdmEntityContainer="Minecraft_MusicEntities">
+    <EntitySetMapping Name="Music">
+      <EntityTypeMapping TypeName="Minecraft_MusicModel.Music">
+        <MappingFragment StoreEntitySet="Music">
+          <ScalarProperty Name="ID_Music" ColumnName="ID_Music" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,141 @@
+﻿<Window x:Class="Minecraft.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Minecraft"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="1440" Height="1020"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+    xmlns:System="clr-namespace:System;assembly=mscorlib" Background="Black" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="930"/>
+        </Grid.RowDefinitions>
+
+        <Grid  Height="90">
+            <Image Source="/Resources/Top.png" Height="400" Stretch="Fill" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Height="90">
+                <Button
+                    Click="Update" Margin="19,0,0,0" 
+                    Background="{x:Null}" BorderBrush="{x:Null}" Height="70" Width="70" >
+                    <Image Source="/Resources/Reload.png" Width="70" Height="70"/>
+                </Button>
+                <TextBlock 
+                    Text="Найти:" FontSize="40" 
+                    Foreground="White" Margin="40,0,0,0"
+                    HorizontalAlignment="Center" VerticalAlignment="Center" />  
+                <TextBox x:Name="TBSerch" 
+                    Margin="20,0,0,0" TextChanged="TBSerch_TC"
+                    Width="450" Height="50"
+                    FontSize="20" Foreground="White" 
+                    Background="Gray" BorderBrush="Black" 
+                    BorderThickness="3" TextAlignment="Center"/>
+                <TextBlock 
+                    Text="Автор:" FontSize="40" 
+                    Foreground="White" Margin="20,0,0,0"
+                    HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CBAuthor"
+                    DisplayMemberPath="Author" Width="250" Height="50" 
+                    BorderBrush="Black" BorderThickness="3"
+                    SelectionChanged="CBAuthor_SC"
+                    FontSize="20" Margin="20,0,0,0"/>
+                <TextBlock 
+                    Text="Сортировка:" FontSize="40" 
+                    Foreground="White" Margin="20,0,0,0"
+                    HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CBSort"
+                    SelectionChanged="CBSort_SC" FontSize="20"
+                    Height="50" Width="250" Margin="20,0,0,0"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <ListView Name="ListMusic">
+                <ListView.Background>
+                    <ImageBrush ImageSource="/Resources/Down.png" Opacity="0.5"/>
+                </ListView.Background>
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Border Height="230" 
+                                BorderBrush="#888888" BorderThickness="5" 
+                                Margin="30,30,30,30" >
+                            
+                            <Grid  Height="230">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="410*"/>
+                                    <ColumnDefinition Width="620*"/>
+                                    <ColumnDefinition Width="330*"/>
+                                </Grid.ColumnDefinitions>
+                                <Rectangle Grid.Column="0" Fill="#232323C4" Opacity="0.77"/>
+                                <Rectangle Grid.Column="1" Fill="#232323C4" Opacity="0.77"/>
+                                <Rectangle Grid.Column="2" Fill="#232323C4" Opacity="0.77"/>
+                                <GridSplitter Width="3" Margin="0,10,0,20"/>
+
+                                <Image Source="/Resources/MusicBox.png" Grid.Column="2"/>
+                                <Image Source="{Binding Picture}" Margin="0,-27,0,10" />
+
+
+                                <TextBlock Text="{Binding Name}" 
+                                           Foreground="White" FontSize="20" 
+                                           Margin="50,181,0,14" HorizontalAlignment="Left"/>
+                                <TextBlock Text="{Binding Author}" 
+                                           Foreground="White" FontSize="20" 
+                                           HorizontalAlignment="Left" Margin="236,181,0,20"/>
+
+
+                                <StackPanel Grid.Column="1" Width="500" Height="200">
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button Width="40" Height="45" Margin="10,0,0,0" 
+                                                Background="{x:Null}" BorderBrush="{x:Null}">
+                                            <Image Source="/Resources/ButtonPlay.png"/>
+                                        </Button>
+                                        <Slider Width="300" 
+                                                VerticalAlignment="Center" 
+                                                Margin="10,0,0,0"/>
+                                        <Button Width="40" Height="45" 
+                                                Margin="10,0,0,0" Background="{x:Null}" 
+                                                BorderBrush="{x:Null}">
+                                            <Image Source="/Resources/ButtonPause.png"/>
+                                        </Button>
+                                        <TextBlock x:Name="MusicProgressStatus" Text="00:00:00" 
+                                                   FontSize="20" Foreground="White" 
+                                                   VerticalAlignment="Center" Margin="15,0,0,0"/>
+                                    </StackPanel>
+
+                                    <Button Height="50" Margin="0,5,0,20" 
+                                            Background="Gray" BorderBrush="Black" 
+                                            BorderThickness="3" Foreground="White" 
+                                            FontSize="20" Click="Sell">
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Продать"/>
+                                            <Image Source="/Resources/Emerald.png" 
+                                                   Width="33" Height="33"/>
+                                        </StackPanel>
+
+                                    </Button>
+
+                                    <Button Height="50" Background="Gray" 
+                                            BorderBrush="Black" BorderThickness="3" 
+                                            Foreground="White" FontSize="20" 
+                                            Content="Сломать" Click="Broke"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+            </ListView>
+        </Grid>
+
+    </Grid>
+</Window>

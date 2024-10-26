@@ -1,0 +1,67 @@
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\bin\Debug\Minecraft.exe.config
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\bin\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\bin\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft_MarkupCompile.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft_MarkupCompile.lref
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.g.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Minecraft\Minecraft\obj\Debug\Minecraft.pdb
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\bin\Debug\Minecraft.exe.config
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\bin\Debug\Minecraft.exe
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\bin\Debug\Minecraft.pdb
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.AssemblyReference.cache
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\MainWindow.g.cs
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\App.g.cs
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft_MarkupCompile.cache
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft_MarkupCompile.lref
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\MainWindow.baml
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.g.resources
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.Properties.Resources.resources
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.GenerateResource.cache
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.exe
+Y:\Мишин Вадим\4 Курс\Инструментальные средства разработки\Minecraft\Minecraft\obj\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\bin\Debug\Minecraft.exe.config
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\bin\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\bin\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft_MarkupCompile.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft_MarkupCompile.lref
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.g.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Minecraft\obj\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\Minecraft.exe.config
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft_MarkupCompile.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft_MarkupCompile.lref
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.g.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.exe
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.pdb
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\EntityFramework.dll
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\EntityFramework.xml
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft_Content.g.cs
+C:\Users\Вадим\Desktop\Учеба\Задания по Аскару\Практика 1 на гит хаб\Проект\Minecraft\obj\Debug\Minecraft.csproj.Up2Date
